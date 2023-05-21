@@ -1,0 +1,20 @@
+{
+  "name": "oelle",
+  "version": "1.0.0",
+  "description": "Websocket Stream Magic Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@yrr.github.com:yrameshra0/oelle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
