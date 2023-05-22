@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "oelle",
   "version": "1.0.0",
   "description": "Websocket Stream Magic Experiment",
